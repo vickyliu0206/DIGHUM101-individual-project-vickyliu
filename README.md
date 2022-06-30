@@ -5,7 +5,7 @@
 ### 06/25/2022<br />
 <br />
 This individual project evaluates the top 1000 global social media influencers on Instagram.<br />
-Social media influencer marketing has been known as one of the most effective ways of selling and promoting products online.
+As social media platforms seem to be the marketing medium is on a steady rise to a leading role, social media influencer marketing has been known as one of the most effective ways of selling and promoting products online.
 Most of the time, these top 1000 global Instagram influencers, also called Mega(1 million + followers ) and Macro (100,000 – 1 million followers) influencers, has relatively more experienced in collaboration, and have the potential to reach millions of people on their platforms. 
 Thus, for businesses that plan to “primarily pursue good engagement rates for brand awareness”  by engaging in social media influencer marketing, 
 this study is going to help them explore Mega and Macro influencers by looking at different metrics on the dataset (https://www.kaggle.com/datasets/ramjasmaurya/top-1000-social-media-channels?select=social+media+influencers+-+instagram.csv). 
